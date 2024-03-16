@@ -6,6 +6,7 @@ This repository contains the implementation and analysis of four algorithms:
 2. Maximum Possible Equal Sum of 3 Stacks
 3. Prim's Algorithm for Minimum Spanning Tree
 4. Longest Common Subsequence (LCS) Solver
+5. Fractional Knapsack Problem
 
 ## Algorithms
 
