@@ -48,3 +48,12 @@ The Longest Common Subsequence (LCS) Solver finds the longest common subsequence
 #### Implementation
 
 The implementation of the Longest Common Subsequence (LCS) Solver can be found in the file `Longest Common Subsequence.py`. It takes two DNA sequences as input and returns the length of the LCS as well as the LCS itself.
+
+### 5. Knapsack Problem
+#### Overview
+
+The Knapsack Problem involves selecting items to maximize the total value in a knapsack while not exceeding its weight capacity.
+
+#### Implementation
+
+The implementation of the Knapsack Problem algorithm can be found in the file `Knapsack Algorithm.py`. It takes a list of items with their weights and values, as well as the capacity of the knapsack, and returns the maximum value achievable.
