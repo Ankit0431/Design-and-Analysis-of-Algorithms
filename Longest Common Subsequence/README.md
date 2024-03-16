@@ -64,4 +64,3 @@ This function prints the Longest Common Subsequence (LCS) for two given DNA sequ
 2. **Phylogenetic Analysis**: The LCS algorithm is employed in phylogenetic analysis to infer evolutionary relationships between species based on their DNA sequences. Identifying common subsequences assists in constructing phylogenetic trees and understanding evolutionary divergence.
 
 3. **Drug Discovery**: In drug discovery, researchers use LCS algorithms to compare DNA sequences of pathogens, such as viruses and bacteria, with host DNA. Identifying conserved regions can aid in developing targeted therapeutics and vaccines.
-4. 
