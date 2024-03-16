@@ -1,7 +1,3 @@
-Sure, here's the revised README file with real-life use cases listed point-wise:
-
----
-
 # Activity Selection Problem & Maximum Possible Equal Sum of 3 Stacks
 
 This repository contains solutions for two problems: the Activity Selection Problem and the Maximum Possible Equal Sum of 3 Stacks. Both problems have real-life applications and are solved using algorithms.
